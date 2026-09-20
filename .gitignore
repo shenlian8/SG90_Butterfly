@@ -1,0 +1,8 @@
+# Ignore temporary setup executables
+*.exe
+
+# Ignore loose media files in root (kept inside Demo/)
+/20260919_*.jpg
+/20260920_*.mp4
+/Stab.jpg
+/butterfly.jpg
